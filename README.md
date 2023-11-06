@@ -1,6 +1,11 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
 
 ## 2021
+
+[10] Agarwal, Aishwarya, et al. "Semantics-Driven Generative Replay for Few-Shot Class Incremental Learning." ACMMM. 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548160)]
+
+[9] Zhu, Kai, et al. "Self-promoted prototype refinement for few-shot class-incremental learning." CVPR. 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.pdf)] 
+
 [8] Zhang, Chi, et al. "Few-shot incremental learning with continually evolved classifiers." CVPR. 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.pdf)] [[code](https://github.com/icoz69/CEC-CVPR2021/tree/main)]
 
 
