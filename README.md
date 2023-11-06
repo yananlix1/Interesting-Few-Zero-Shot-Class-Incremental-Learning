@@ -2,6 +2,8 @@
 
 ## 2022
 
+[14] Li, Yiting, et al. "Incremental Few-Shot Object Detection for Robotics." ICRA. 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811856)]
+
 [13] Kalla, Jayateja, and Soma Biswas. "S3C: Self-supervised stochastic classifiers for few-shot class-incremental learning." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_25)] [[code](https://github.com/JAYATEJAK/S3C)]
 
 [12] Hersche, Michael, et al. "Constrained few-shot class-incremental learning." CVPR. 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)] [[code](https://github.com/IBM/constrained-FSCIL)]
