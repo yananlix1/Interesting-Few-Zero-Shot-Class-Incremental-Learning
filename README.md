@@ -1,6 +1,9 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
 
 ## 2022
+[16] Lu, Bin, et al. "Geometer: Graph few-shot class-incremental learning via prototype representation." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539280)]
+
+[15] Liu, Huan, et al. "Few-shot class-incremental learning via entropy-regularized data-free replay." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_9)]
 
 [14] Li, Yiting, et al. "Incremental Few-Shot Object Detection for Robotics." ICRA. 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811856)]
 
