@@ -2,6 +2,8 @@
 This repository lists related papers about few/zero-shot class-incremental learning (e.g. recognition, detection, segement, etc.). 
 
 ## 2023
+[25] Zhao, Linglan, et al. "Few-Shot Class-Incremental Learning via Class-Aware Bilateral Distillation." CVPR. 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf)] [[code](https://github.com/LinglanZhao/BiDistFSCIL)]
+
 [24] Yang, Yibo, et al. "Neural collapse inspired feature-classifier alignment for few-shot class incremental learning." ICLR. 2023. [[paper](https://arxiv.org/pdf/2302.03004.pdf)] [[code](https://github.com/NeuralCollapseApplications/FSCIL)]
 
 [23] Tian, Songsong, et al. "A survey on few-shot class-incremental learning." Neural Networks 169 (2024): 307-324. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
