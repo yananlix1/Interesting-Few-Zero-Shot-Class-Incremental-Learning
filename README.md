@@ -1,5 +1,12 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
 
+## 2023
+[24] Yang, Yibo, et al. "Neural collapse inspired feature-classifier alignment for few-shot class incremental learning." ICLR. 2023. [[paper](https://arxiv.org/pdf/2302.03004.pdf)] [[code](https://github.com/NeuralCollapseApplications/FSCIL)]
+
+[23] Tian, Songsong, et al. "A survey on few-shot class-incremental learning." Neural Networks 169 (2024): 307-324. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
+
+[22] Song, Zeyin, et al. "Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning." CVPR. 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Learning_With_Fantasy_Semantic-Aware_Virtual_Contrastive_Constraint_for_Few-Shot_Class-Incremental_CVPR_2023_paper.pdf)] [[code](https://github.com/zysong0113/SAVC)]
+
 ## 2022
 [21] Kim, Do-Yeon, et al. "Warping the space: Weight space rotation for class-incremental few-shot learning." ICLR. 2022. [[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)] [[code](https://github.com/EdwinKim3069/WaRP-CIFSL)]
 
