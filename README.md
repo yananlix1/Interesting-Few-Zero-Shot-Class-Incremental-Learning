@@ -1,5 +1,12 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
 
+## 2022
+
+[13] Kalla, Jayateja, and Soma Biswas. "S3C: Self-supervised stochastic classifiers for few-shot class-incremental learning." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_25)] [[code](https://github.com/JAYATEJAK/S3C)]
+
+[12] Hersche, Michael, et al. "Constrained few-shot class-incremental learning." CVPR. 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)] [[code](https://github.com/IBM/constrained-FSCIL)]
+
+[11] Chi, Zhixiang, et al. "Metafscil: A meta-learning approach for few-shot class incremental learning." CVPR. 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)]
 ## 2021
 
 [10] Agarwal, Aishwarya, et al. "Semantics-Driven Generative Replay for Few-Shot Class Incremental Learning." ACMMM. 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548160)]
