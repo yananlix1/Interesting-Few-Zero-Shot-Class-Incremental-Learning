@@ -1,6 +1,16 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
 
 ## 2022
+[21] Kim, Do-Yeon, et al. "Warping the space: Weight space rotation for class-incremental few-shot learning." ICLR. 2022. [[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)] [[code](https://github.com/EdwinKim3069/WaRP-CIFSL)]
+
+[20] Zhou, Da-Wei, et al. "Few-shot class-incremental learning by sampling multi-phase tasks." TPAMI. 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9864267)] [[code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
+
+[19] Zhou, Da-Wei, et al. "Forward compatible few-shot class-incremental learning." CVPR. 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Forward_Compatible_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)] [[code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
+
+[18] Xiang, Xiang, et al. "Coarse-to-fine incremental few-shot learning." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_12)]
+
+[17] Peng, Can, et al. "Few-shot class-incremental learning from an open-set perspective." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_22)] [[code](https://github.com/CanPeng123/FSCIL_ALICE)]
+
 [16] Lu, Bin, et al. "Geometer: Graph few-shot class-incremental learning via prototype representation." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539280)]
 
 [15] Liu, Huan, et al. "Few-shot class-incremental learning via entropy-regularized data-free replay." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_9)]
