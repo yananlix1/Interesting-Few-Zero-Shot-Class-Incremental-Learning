@@ -3,6 +3,7 @@
 
 ## 2020
 [3] Tao, Xiaoyu, et al. "Few-shot class-incremental learning." CVPR. 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf)] [[code](https://github.com/xyutao/fscil)]
+[4] Perez-Rua, Juan-Manuel, et al. "Incremental few-shot object detection." CVPR. 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.pdf)] [code]
 
 ## 2019 
 [2] Ren, Mengye, et al. "Incremental few-shot learning with attention attractor networks." NeurIPS. 2019. [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/e833e042f509c996b1b25324d56659fb-Paper.pdf)]
