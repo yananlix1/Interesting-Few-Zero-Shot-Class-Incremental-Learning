@@ -1,6 +1,8 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
 
 ## 2021
+[6] Mazumder, Pratik, Pravendra Singh, and Piyush Rai. "Few-shot lifelong learning." AAAI. 2021. [[paper](https://arxiv.org/pdf/2103.00991.pdf)] [[code](https://github.com/pratikm141/FSLL)]
+
 [5] Kukleva, Anna, Hilde Kuehne, and Bernt Schiele. "Generalized and incremental few-shot learning by explicit learning and calibration without forgetting." ICCV. 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kukleva_Generalized_and_Incremental_Few-Shot_Learning_by_Explicit_Learning_and_Calibration_ICCV_2021_paper.pdf)] [[code](https://github.com/annusha/LCwoF)]
 
 ## 2020
