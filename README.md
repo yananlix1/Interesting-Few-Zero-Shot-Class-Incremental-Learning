@@ -1,4 +1,5 @@
 # Interesting-Few-Zero-Shot-Class-Incremental-Learning
+This repository lists related papers about few/zero-shot class-incremental learning (e.g. recognition, detection, segement, etc.). 
 
 ## 2023
 [24] Yang, Yibo, et al. "Neural collapse inspired feature-classifier alignment for few-shot class incremental learning." ICLR. 2023. [[paper](https://arxiv.org/pdf/2302.03004.pdf)] [[code](https://github.com/NeuralCollapseApplications/FSCIL)]
