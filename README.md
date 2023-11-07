@@ -25,7 +25,7 @@ This repository lists related papers about few/zero-shot class-incremental learn
 
 [17] Peng, Can, et al. "Few-shot class-incremental learning from an open-set perspective." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_22)] [[code](https://github.com/CanPeng123/FSCIL_ALICE)]
 
-[16] Lu, Bin, et al. "Geometer: Graph few-shot class-incremental learning via prototype representation." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539280)]
+[16] Lu, Bin, et al. "Geometer: Graph few-shot class-incremental learning via prototype representation." SIGKDD. 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539280)]
 
 [15] Liu, Huan, et al. "Few-shot class-incremental learning via entropy-regularized data-free replay." ECCV. 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_9)]
 
