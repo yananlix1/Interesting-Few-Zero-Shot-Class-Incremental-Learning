@@ -2,6 +2,8 @@
 This repository lists related papers about few/zero-shot class-incremental learning (e.g. recognition, detection, segement, etc.). 
 
 ## 2023
+[28] Dong, Na, et al. "Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning" AAAI. 2023. [[paper](https://arxiv.org/pdf/2205.04042.pdf)]
+
 [27] Kang, Haeyong, et al. "On the soft-subnetwork for few-shot class incremental learning." ICLR. 2023. [[paper](https://openreview.net/pdf?id=z57WK5lGeHd)] [[code](https://github.com/ihaeyong/SoftNet-FSCIL)]
 
 [26] Zhuang, Huiping, et al. "GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-Shot Class Incremental Task." CVPR. 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)]
